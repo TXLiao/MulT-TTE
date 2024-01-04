@@ -1,0 +1,13 @@
+{
+  "MulT_TTE": {
+    "input_dim": 120,
+    "seq_input_dim": 120,
+    "seq_hidden_dim": 128,
+    "seq_layer": 2,
+    "bert_hiden_size": 64,
+    "decoder_layer": 3,
+    "decode_head": 1,
+    "bert_hidden_layers":4,
+    "bert_attention_heads": 8
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "chengdu_MulT_TTE": {
+    "data_dir": "data/chengdu",
+    "batch_size": 48,
+    "collate_fn": "MulT_TTE_collate_func",
+    "time_mean": 805.2721966089857,
+    "time_std": 495.80028550412226,
+    "edges": 27290,
+    "edges_dir": "data/chengdu/network-chengdu/chengdu_edges_new_simplify.pkl",
+    "nodes_dir": "data/chengdu/network-chengdu/chengdu_nodes_new.pkl",
+    "gps_range": [30.5930, 103.9746, 30.75, 104.167]
+  },
+  "porto_MulT_TTE": {
+    "data_dir": "data/porto",
+    "batch_size": 48,
+    "collate_fn": "MulT_TTE_collate_func",
+    "time_mean": 638.7367947002926,
+    "time_std": 320.2971819500909,
+    "edges": 26529,
+    "edges_dir": "data/porto/network-porto/porto_edges_new_simplify.pkl",
+    "nodes_dir": "data/porto/network-porto/porto_nodes_new.pkl",
+    "gps_range": [41.12, -8.71690, 41.22, -8.56924]
+  }
+
+}
