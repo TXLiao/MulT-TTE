@@ -66,16 +66,16 @@ python .\main.py --model MulT_TTE --dataset chengdu_MulT_TTE --identify example_
 python .\main.py --model MulT_TTE --dataset porto_MulT_TTE --identify example_1 --device cuda:1   
 ```
 
-## ~~Cite~~ (coming soon)
+## Cite (coming)
 
-~~If you find the paper useful, please cite as following:~~
+If you find the paper useful, please cite as following:
 
 ```
-@inproceedings{,
-  title={},
-  author={},
-  booktitle={},
-  year={},
-  organization={}
+@article{liao2024multi,
+  title={Multi-faceted route representation learning for travel time estimation},
+  author={Liao, Tianxi and Han, Liangzhe and Xu, Yi and Zhu, Tongyu and Sun, Leilei and Du, Bowen},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  year={2024},
+  publisher={IEEE}
 }
 ```
