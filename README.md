@@ -72,9 +72,12 @@ If you find the paper useful, please cite as following:
 
 ```
 @article{liao2024multi,
-  title={Multi-faceted route representation learning for travel time estimation},
+  title={Multi-Faceted Route Representation Learning for Travel Time Estimation},
   author={Liao, Tianxi and Han, Liangzhe and Xu, Yi and Zhu, Tongyu and Sun, Leilei and Du, Bowen},
   journal={IEEE Transactions on Intelligent Transportation Systems},
+  volume={25},
+  number={9},
+  pages={11782--11793},
   year={2024},
   publisher={IEEE}
 }
